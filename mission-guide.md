@@ -4,7 +4,7 @@
 <img width="1110" alt="image" src="https://github.com/user-attachments/assets/529f655d-08cf-4eec-a3d2-a213d9077cc8">
 <img width="820" alt="image" src="https://github.com/user-attachments/assets/c8d64df1-d99d-4b45-b1b4-7bb4ea73bd01">
 
-`Fork`를 클릭하여 미션을 자신의 계정으로 가져옵니다.
+`Fork` -> `Create a New Fork`를 클릭하여 미션을 자신의 계정으로 가져옵니다.
 
 ## 2. fork한 미션을 자신의 로컬 저장소로 clone
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/83fbe63a-ee4a-4312-8a14-02af525bc6bd">
