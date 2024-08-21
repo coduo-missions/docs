@@ -26,9 +26,13 @@ git clone {복사한 저장소 링크}
 
 ## 3. 가져온 프로젝트 오픈 & 미션 요구사항 확인 후 페어프로그래밍 진행
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/3d4a2489-d643-4af2-a583-04d08257882d">
+
+
 clone해온 저장소 폴더로 이동합니다.
 
 <img width="789" alt="image" src="https://github.com/user-attachments/assets/98ce70cd-899c-4b21-859b-0a119802c8c3">
+
+
 `idea .` 명령어를 실행해서 가져온 프로젝트를 오픈합니다.
 
 
